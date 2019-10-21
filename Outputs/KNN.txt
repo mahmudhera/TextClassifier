@@ -1,0 +1,13 @@
+Arduino
+Astronomy
+Biology
+Chess
+k=1,	 Euclidean:	 51.5306
+k=1,	 Hamming:	 27.5510
+k=1,	 Cosine:	 88.7755
+k=3,	 Euclidean:	 57.1429
+k=3,	 Hamming:	 34.6939
+k=3,	 Cosine:	 92.3469
+k=5,	 Euclidean:	 54.0816
+k=5,	 Hamming:	 37.2449
+k=5,	 Cosine:	 92.8571
